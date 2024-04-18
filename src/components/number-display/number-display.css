@@ -1,0 +1,17 @@
+.number-display {
+    .numbers-display-sec {
+
+        max-height: 500px;
+        overflow: auto;
+    }
+    ul  {
+        list-style-type: none;        
+        padding-left: 0px;
+    }
+    ul li {
+        display: inline-block;
+        width: 50px;
+        text-align: right;                
+    }
+}
+
